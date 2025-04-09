@@ -1,4 +1,4 @@
-﻿# --------------------------------------
+# --------------------------------------
 # Hexo Butterfly Theme Configuration
 # If you have any questions, please refer to the documentation
 # Chinese: https://butterfly.js.org/
@@ -10,11 +10,24 @@
 # --------------------------------------
 
 nav:
-  # Navigation bar logo image
-  logo: https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBa1pRN2dYUGY1VzlnWmxPa1VVWlljaDZxVDM3Unc.gif
-  display_title: true
-  # Whether to fix navigation bar
-  fixed: false
+  enable: true
+  travelling: false
+  clock: false
+  menu:
+    - title: 网页
+      item:
+        - name: 博客
+          link: https://383842.xyz/
+          icon: /img/favicon.ico
+        - name: 博客导航页
+          link: https://fenbai.383842.xyz/
+          icon: /img/favicon.ico
+    - title: 项目
+      item:
+        - name: 我的网盘
+          link: https://rangxi.383842.xyz/
+          icon: https://image.anheyu.com/favicon.ico
+
 
 menu:
   首页: / || fas fa-home
