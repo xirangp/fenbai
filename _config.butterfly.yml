@@ -210,7 +210,7 @@ reward:
   enable: true
   text: 
   QR_code:
-     - img: /img/wechat.jpg
+     - img: /source/img/weixin.jpg
        link:
        text: wechat
     #  - img: /img/alipay.jpg
