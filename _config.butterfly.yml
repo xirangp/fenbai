@@ -210,7 +210,7 @@ reward:
   enable: true
   text: 
   QR_code:
-     - img: /source/img/weixin.jpg
+     - img: https://www.udids.cn/tool/images/uploads/2025-04-12/1744390373_mmexport1744390389426.jpg
        link:
        text: wechat
     #  - img: /img/alipay.jpg
