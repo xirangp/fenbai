@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBa1pRN2dYUGY1VzlnWmxPa1VVWlljaDZxVDM3Unc.gif
+  logo: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
   display_title: true
   # Whether to fix navigation bar
   fixed: false
@@ -56,7 +56,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9iZDk1N2ZjZjA1ZWU1MDQ2L0VaZTlOLVNwcm9CSW1vNVB5bVh3eUljQlRYRGF5eVhIQUNuNjI1Q1UzdUp6eXc.jpg
+  img: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6jl9ud0j30hs0hsaax.jpg
   effect: false
 
 # Disable all banner images
