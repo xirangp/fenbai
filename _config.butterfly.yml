@@ -15,7 +15,24 @@ nav:
   display_title: true
   # Whether to fix navigation bar
   fixed: false
-
+  enable: true
+  menu:
+    - title: 网页
+      item:
+        - name: 个人主页
+          link: https://index.anheyu.com/
+          icon: https://bu.dusays.com/2023/08/13/64d8c2748ef34.jpg
+        - name: 博客
+          link: https://blog.anheyu.com/
+          icon: https://bu.dusays.com/2023/07/23/64bc72c75319d.png
+        - name: 安知鱼图床
+          link: https://image.anheyu.com/
+          icon: https://bu.dusays.com/2023/08/13/64d8c2653332e.ico
+    - title: 项目
+      item:
+        - name: 安知鱼图床
+          link: https://image.anheyu.com/
+          icon: https://bu.dusays.com/2023/08/13/64d8c2653332e.ico
 menu:
   首页: / || fas fa-home
   标签: /tags/ || fas fa-tags
