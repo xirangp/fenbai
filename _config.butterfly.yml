@@ -10,29 +10,39 @@
 # --------------------------------------
 
 nav:
-  # Navigation bar logo image
-  logo: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
-  display_title: true
-  # Whether to fix navigation bar
-  fixed: false
   enable: true
+  travelling: false
+  clock: false
+  logo: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
   menu:
     - title: 网页
       item:
-        - name: 个人主页
-          link: https://index.anheyu.com/
-          icon: https://bu.dusays.com/2023/08/13/64d8c2748ef34.jpg
+        - name: 博客导航页
+          link: https://fenbai.383842.xyz/
+          icon: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
         - name: 博客
-          link: https://blog.anheyu.com/
-          icon: https://bu.dusays.com/2023/07/23/64bc72c75319d.png
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://bu.dusays.com/2023/08/13/64d8c2653332e.ico
+          link: https://383842.xyz/
+          icon: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
+        - name: 友链
+          link: /link
+          icon: /anzhiyu-icon-link
+ 
+         #友链: /link/ || anzhiyu-icon-link
     - title: 项目
       item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://bu.dusays.com/2023/08/13/64d8c2653332e.ico
+        - name: 我的网盘
+          link: https://rangxi.383842.xyz/
+          icon: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
+        - name: 我的网盘1
+          link: https://xirang.383842.xyz/
+          icon: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
+        - name: 我的网盘2
+          link: https://www.383842.xyz/
+          icon: https://dlink.host/wx2.sinaimg.cn/large/007udx8Wly8i0h6etwni7g301j01lq3k.gif
+        - name: 临时网盘
+          link: https://dupzqiwy.sealosbja.site/
+          icon: https://image.anheyu.com/favicon.ico
+
 menu:
   首页: / || fas fa-home
   标签: /tags/ || fas fa-tags
